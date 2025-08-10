@@ -12,3 +12,8 @@ git remote add origin "url"
 git commit -m "commit message"
 git push origin main
 ```
+## step 4 adding list items
+
+- [x] list item 1
+- [ ] list item 2
+- [ ] list item 3
