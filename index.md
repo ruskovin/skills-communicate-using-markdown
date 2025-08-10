@@ -3,3 +3,12 @@
 ## adding an image
 
 ![image of a Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## adding a code section
+
+```
+git init
+git remote add origin "url"
+git commit -m "commit message"
+git push origin main
+```
